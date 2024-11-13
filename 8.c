@@ -24,4 +24,4 @@ int main()
                     printf("Ninguno de los números es divisor del otro\n");
                 }
         return 0;
-}
+    }
